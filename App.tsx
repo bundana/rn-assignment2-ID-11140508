@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>
+      <Text style={{ fontSize: 24 }}>
         My name is{" "}
         <Text style={{ fontWeight: "bold" }}>
           Sulemana Abdul-Haafiz Bundana

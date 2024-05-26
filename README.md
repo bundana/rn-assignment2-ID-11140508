@@ -11,7 +11,7 @@ The task was to:
 - Make the name "Sulemana Abdul-Haafiz Bundana" bold.
 
 ## Screenshot
-![App Screenshot](assets/expo-splash-screen.jpg)
+![App Screenshot](assets/EXPOSCREEN.jpg)
 
 ## Student ID
 
